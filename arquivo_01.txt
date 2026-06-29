@@ -1,2 +1,4 @@
 vasco é top demais
-legal??????
+<<<<<<< HEAD
+legal?
+
